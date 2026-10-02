@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello!🥰🥰
 
-<!--
-**HanaJelly/HanaJelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸I am **Hana**, an aspiring data analyst and data nerd at heart, 
+  despite how much I stumble over Statistics.
+  
+🌸More of a learning-along-the-way coder but I genuinely enjoy the
+  time I spend making mistakes and learning.
+  
+🌸I mostly work with Python, R-Studio, Power BI and SQL, depending 
+   on my mood and my homework.
+   
+🌸I am currently testing the waters in the field of Machine Learning and
+   hopefully wish to get the basic grasp of it by the end of this year.
+   
+🌸I am also planning to use Machine Learning Model in my postgraduate dissertation,
+  pertaining to the field of Environmental Economics.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸You can reach me through my E-mail : ahanals31@gmail.com
